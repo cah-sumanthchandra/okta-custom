@@ -33,4 +33,6 @@
     transition: padding-top .4s;
     background: #24384a7a;
 }
-
+#okta-sign-in.auth-container .okta-form-subtitle {
+    color: white;
+}

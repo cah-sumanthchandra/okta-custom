@@ -36,3 +36,11 @@
 #okta-sign-in.auth-container .okta-form-subtitle {
     color: white;
 }
+#okta-sign-in .password-requirements--header {
+    padding-bottom: 10px;
+    color: white;
+}
+#okta-sign-in .password-requirements--list-item {
+    line-height: 21px;
+    color: white;
+}

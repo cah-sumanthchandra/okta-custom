@@ -1,0 +1,28 @@
+
+#okta-sign-in.auth-container.main-container {
+    background-color: transparent;
+ border-color: transparent;
+                
+}
+#okta-sign-in.auth-container .okta-sign-in-header {
+    display: none;
+}
+#okta-sign-in .o-form .o-form-label, #okta-sign-in .o-form input, #okta-sign-in .o-form label, #okta-sign-in .o-form textarea {
+    font-size: 14px;
+    color: white;
+}
+#okta-sign-in.auth-container h2, #okta-sign-in.auth-container h3 {
+    font-weight: 600;
+    color: white;
+}
+#okta-sign-in.auth-container .link, #okta-sign-in.auth-container .link:active, #okta-sign-in.auth-container .link:hover, #okta-sign-in.auth-container .link:link, #okta-sign-in.auth-container .link:visited {
+    color: white;
+}
+
+#okta-sign-in {
+    /* margin-top: -200px; */
+    margin-top: -125px;
+}
+.jfgbg {
+  height: 500px;
+  }

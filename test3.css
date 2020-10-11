@@ -28,6 +28,9 @@
   height: 600px;
   }
 
-#okta-sign-in.auth-content{
-background: #24384a7a;
+#okta-sign-in .auth-content {
+    padding: 60px 42px 20px;
+    transition: padding-top .4s;
+    background: #24384a7a;
 }
+

@@ -1,5 +1,5 @@
 #okta-sign-in.auth-container .link, #okta-sign-in.auth-container .link:active, #okta-sign-in.auth-container .link:hover, #okta-sign-in.auth-container .link:link, #okta-sign-in.auth-container .link:visited {
-    color: white;
+    color: black;
 }
 #wrapper2 { display:block !important; }
 

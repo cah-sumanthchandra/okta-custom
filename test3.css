@@ -45,3 +45,7 @@
     line-height: 21px;
     color: white;
 }
+#okta-sign-in .custom-checkbox label, #okta-sign-in .custom-radio label {
+    
+    color: white;
+}

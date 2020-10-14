@@ -49,7 +49,14 @@ header {
 }
 
 
-
+.login-bg-image {
+    position: relative;
+    background-image: url(https://jefferies.com/CMSFiles/Jefferies.com/images/JFG/jfg-background-desktop_v3.jpg);
+    height: 1000px;
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 
 

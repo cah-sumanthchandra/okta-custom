@@ -1,65 +1,5 @@
 #wrapper3 { display:block !important; }
 
-@media (min-width: 1025px)
-header > .container {
-    min-width: 1040px;
-    max-width: none;
-}
-
-.main-container .container {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-
-
-.main-logo{ width: 109px;}
-img{ display:block; border:none;}
-
-@media (min-width: 1025px)
-header .utility-nav, header nav {
-    display: -ms-flexbox;
-    display: flex;
-    font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
-    font-size: 16px;
-}
-
-.headroom {
-    position: fixed;
-    z-index: 9998;
-    top: 0;
-    left: 0;
-    right: 0;
-    transition: all .3s ease;
-}
-
-@media (min-width: 1025px)
-header {
-    height: 90px;
-    padding: 0 40px;
-}
-header {
-    display: -ms-flexbox;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    background: #fff;
-    display: flex;
-    -ms-flex-align: center;
-    align-items: center;
-}
-
-
-main .login-bg-image1 {
-    position: relative;
-    background-image: url(https://jefferies.com/CMSFiles/Jefferies.com/images/JFG/jfg-background-desktop_v3.jpg);
-    height: 1000px;
-    background-position: center top;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-
-
 
 #okta-sign-in.auth-container.main-container {
     background-color: transparent;
@@ -89,6 +29,14 @@ main .login-bg-image1 {
 .jfgbg {
  height: fit-content;
   }
+#homeHeaderHero {
+    padding-top: 120px;
+    padding-bottom: 25px;
+    /* height: auto; */
+    max-width: 800px;
+    margin: 0 auto;
+    /* width: 60%; */
+}
 
 #okta-sign-in .auth-content {
     padding: 60px 42px 20px;

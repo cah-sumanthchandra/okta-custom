@@ -87,7 +87,7 @@ main .login-bg-image1 {
     margin-top: -125px;
 }
 .jfgbg {
-  height: 630px;
+ height: fit-content;
   }
 
 #okta-sign-in .auth-content {

@@ -1,5 +1,36 @@
 #wrapper3 { display:block !important; }
 
+@media (min-width: 1025px)
+header > .container {
+    min-width: 1040px;
+    max-width: none;
+}
+
+.main-container .container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+.main-logo{ width: 164px;}
+img{ display:block; border:none;}
+
+@media (min-width: 1025px)
+header .utility-nav, header nav {
+    display: -ms-flexbox;
+    display: flex;
+    font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
 #okta-sign-in.auth-container.main-container {
     background-color: transparent;
  border-color: transparent;

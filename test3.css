@@ -49,7 +49,7 @@ header {
 }
 
 
-.login-bg-image1 {
+main .login-bg-image1 {
     position: relative;
     background-image: url(https://jefferies.com/CMSFiles/Jefferies.com/images/JFG/jfg-background-desktop_v3.jpg);
     height: 1000px;

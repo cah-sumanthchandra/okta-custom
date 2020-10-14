@@ -24,6 +24,29 @@ header .utility-nav, header nav {
     font-size: 16px;
 }
 
+.headroom {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all .3s ease;
+}
+
+@media (min-width: 1025px)
+header {
+    height: 90px;
+    padding: 0 40px;
+}
+header {
+    display: -ms-flexbox;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    background: #fff;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+}
 
 
 

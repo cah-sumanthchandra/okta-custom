@@ -41,7 +41,7 @@
 #okta-sign-in .auth-content {
     padding: 60px 42px 20px;
     transition: padding-top .4s;
-    background: #24384a7a;
+    background: rgba(7, 56, 95, 0.45);
 }
 #okta-sign-in.auth-container .okta-form-subtitle {
     color: white;

@@ -23,7 +23,7 @@
 #okta-sign-in.auth-container .link, #okta-sign-in.auth-container .link:active, #okta-sign-in.auth-container .link:hover, #okta-sign-in.auth-container .link:link, #okta-sign-in.auth-container .link:visited {
     color: #000000;
 }
-#okta-sign-in .o-form-button-bar .button {
+.primary-auth .o-form-button-bar .button {
     display: block;
     width: 35%;
     height: 38px;

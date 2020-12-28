@@ -1,3 +1,4 @@
+#wrapper3 { display:block !important; }
 #jfgHomeContainer{
   display:flex; justify-content: space-around;
 }

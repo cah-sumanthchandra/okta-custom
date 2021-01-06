@@ -5,7 +5,7 @@
 #okta-sign-in .button, #okta-sign-in .button.link-button, #okta-sign-in input[type="submit"].button, #okta-sign-in.auth-container input[type="submit"], #okta-sign-in.auth-container input[type="button"], #okta-sign-in .button, #okta-sign-in .button.link-button, #okta-sign-in .enroll-factor-row .enroll-factor-button .button {
     background: #033364;
     border: 0;
-    border-radius: 5px;
+    border-radius: 0px;
     font-weight: 700;
     letter-spacing: .025em;
     color: #fff;

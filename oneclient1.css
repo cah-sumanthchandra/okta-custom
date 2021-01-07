@@ -55,10 +55,17 @@ div#headerlogo {
    }
    }
 @media only screen and (max-width: 600px)
-#okta-sign-in.auth-container {
-    width: 350px;
-    
-}
+  {
+    #okta-sign-in.auth-container {
+        width: 350px;
+    } 
+  }
+@media only screen and (max-width: 866px)
+  {
+    .jfgbg {
+          background-size: 178%;
+           } 
+  }
 .welcome a {
             margin: 6px 0px;
             font-size: 24px;
